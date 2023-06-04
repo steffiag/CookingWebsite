@@ -1,7 +1,9 @@
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: white;
     overflow: hidden;
+    width: 100%;
   }
   
   /* Style the links inside the navigation bar */
@@ -11,8 +13,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
-    
+    font-family: 'Didact Gothic';font-size: 22px;
   }
   
   /* Change the color of links on hover */
@@ -20,4 +21,16 @@
     background-color:black;
     color: rgb(175,238,238);
   }
-  
+  .title{
+    font-family: 'Yellow Bougenville';
+    font-size: 150px;
+    text-align: center;
+    color: white;
+  }
+  .title {
+    text-shadow:
+      -1.5px -1.5px 0 #000,
+      1.5px -1.5px 0 #000,
+      -1.5px 1.5px 0 #000,
+      1.5px 1.5px 0 #000;
+  }
