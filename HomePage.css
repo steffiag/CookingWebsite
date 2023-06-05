@@ -38,9 +38,9 @@
   .searchbar {
     font-family: 'Yellow Bougenville';
     font-size: 70px;
-    text-align: bottom;
+    text-align: center;
     color: mintcream;
-    border-bottom: 40rem solid;
+    border-bottom: 5rem solid;
   }
 
   
