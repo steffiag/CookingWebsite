@@ -38,12 +38,13 @@
     font-family: 'Yellow Bougenville';
     font-size: 70px;
     text-align: center;
-    color: mintcream;
-    border-bottom: 5rem solid;
+    color: white;
   }
 
-  .searchbar {
+
+  #search{
+    height: 60px;
+    width: 1000px;
     border-radius: 20px 20px;
     padding: 20px;
   }
-  
