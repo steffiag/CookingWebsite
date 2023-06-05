@@ -34,3 +34,13 @@
       -1.5px 1.5px 0 #000,
       1.5px 1.5px 0 #000;
   }
+
+  .searchbar {
+    font-family: 'Yellow Bougenville';
+    font-size: 70px;
+    text-align: bottom;
+    color: mintcream;
+    border-bottom: 1rem solid;
+  }
+
+  
