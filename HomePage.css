@@ -58,3 +58,14 @@
       -1.5px 1.5px 0 #000,
       1.5px 1.5px 0 #000;
   }
+  .credits{
+    font-family: 'Yellow Bougenville';
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    text-shadow:
+      -1.5px -1.5px 0 #000,
+      1.5px -1.5px 0 #000,
+      -1.5px 1.5px 0 #000,
+      1.5px 1.5px 0 #000;
+  }
