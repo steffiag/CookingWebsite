@@ -3,16 +3,17 @@
   <head>
     <meta charset='UTF-8'>
     <title>Search Bar Demo</title>
+    <link href="https://fonts.cdnfonts.com/css/yellow-bougenville" rel="stylesheet">
     <style>
         body {
-        background-color: #bcf0f8;
+        background-color: rgb(188, 240, 248);
         margin: 200px 40%;
       }
 
       form {
         background-color: #ffffff;
-        width: 1200px;
-        height: 100px;
+        width: 1000;
+        height: 60px;
         border-radius: 5px;
         display:flex;
         flex-direction:row;
@@ -47,10 +48,15 @@
         width: 44px;
         height: 44px;
       }
+      #title{
+        font-family: 'Yellow Bougenville';
+        color: white;
+        font-size: 100px;
+      }
     </style>
+    <p id = "title">Search</p>
   </head>
   <body>
-    Search a Recipe!
     <form role="search" id="form">
       <input type="search" id="query" name="q" placeholder="Search..." aria-label="Search through site content">
       <button>
