@@ -1,19 +1,46 @@
 body
 {
+    font-family: 'Didact Gothic';
     margin: 0;
     padding: 0;
     background-color: rgb(175,238,238);
-    font-family: 'Arial';
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Didact Gothic';font-size: 22px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color:black;
+    color: rgb(175, 238, 238);
+  }
+#heading{
+    font-family: 'Didact Gothic';
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    
 }
 .login{
-        width: 382px;
+        width: 300px;
         overflow: hidden;
         margin: auto;
         margin: 20 0 0 450px;
         padding: 80px;
         background: whitesmoke;
         border-radius: 15px ;
-        text-align: center;
+        /* text-align: center; */
 
 }
 h2{

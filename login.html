@@ -3,15 +3,22 @@
 <head>
     <title>Login Form</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.cdnfonts.com/css/yellow-bougenville" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Didact Gothic' rel='stylesheet'>
     <link rel = "stylesheet" href = "login.css">
 </head>
 <body>
-    <h2>Login Page</h2><br>
+    <div class="topnav">
+        <a href="./HomePage.html">Home</a>
+        <a href="#favorites">Favorites</a>
+        <a class = "active" href="./login.html">Login</a>
+      </div>
+    <h2 id="heading">Login</h2>
     <div class="login">
     <form id="login" method="get" action="login.php">
 
         
-        <label><b>User Name
+        <label id = "user"><b>User Name
          </b>
         </label>
         <input type="text" name="Uname" id="Uname" placeholder="Username">
