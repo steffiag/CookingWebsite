@@ -42,7 +42,7 @@
   }
 
 
-  #search{
+  #query{
     height: 60px;
     width: 1000px;
     border-radius: 20px 20px;
@@ -52,17 +52,6 @@
   }
 
   .searchbar {
-    text-shadow:
-      -1.5px -1.5px 0 #000,
-      1.5px -1.5px 0 #000,
-      -1.5px 1.5px 0 #000,
-      1.5px 1.5px 0 #000;
-  }
-  .catchphrase{
-    font-family: 'Yellow Bougenville';
-    font-size: 50px;
-    text-align: center;
-    color: white;
     text-shadow:
       -1.5px -1.5px 0 #000,
       1.5px -1.5px 0 #000,

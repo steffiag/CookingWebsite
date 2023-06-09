@@ -22,7 +22,26 @@
     <div class="title">
         <p>🍩🥪Cooking Web!🍕🍔</p>
     </div>
-    <div class="catchphrase">
-      <p>Active Your Inner Foodie</p>
-    </div>
+    <div class="searchbar">
+      <form role="search" id = "form">
+          <label for="search">Search Bar:</label><br>
+          <input type="search" id="query" name="q" placeholder="Search..." aria-label="Search through site content">
+    </form>
+    <script>
+      const f = document.getElementById('form');
+      const q = document.getElementById('query');
+      const google = 'https://www.google.com/search?q=recipe%3A+';
+
+      function submitted(event) {
+        event.preventDefault();
+        const url = google + '+' + q.value;
+        const win = window.open(url, '_blank');
+        win.focus();
+      }
+
+      f.addEventListener('submit', submitted);
+    </script>
+        </form>
+  </div>
+  
 </html>
