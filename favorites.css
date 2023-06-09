@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(175,238,238);
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Didact Gothic';font-size: 22px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color:black;
+    color: rgb(175, 238, 238);
+  }
+#title{
+    font-family: 'Didact Gothic';
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.favorites{
+    background-color: white;
+    width: 600;
+    height: 500px;
+    border-radius: 25px;
+}
