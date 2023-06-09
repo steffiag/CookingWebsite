@@ -1,5 +1,7 @@
 body{
     background-color: rgb(175,238,238);
+    margin: 0;
+    padding: 0;
 }
 .topnav {
     background-color: white;
@@ -29,8 +31,9 @@ body{
     text-align: center;
 }
 .favorites{
-    background-color: white;
-    width: 600;
+    background-color: whitesmoke;
+    width: 1000px;
     height: 500px;
     border-radius: 25px;
+    margin: auto;
 }
