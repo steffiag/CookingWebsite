@@ -31,9 +31,83 @@ body{
     text-align: center;
 }
 .favorites{
+    padding: 50px;
     background-color: whitesmoke;
     width: 1000px;
     height: 500px;
     border-radius: 25px;
     margin: auto;
+}
+
+#plus{
+    background-color: rgb(175,238,238);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+}
+.instructions{
+    padding: 10px;
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    height: 40px;
+    border-radius: 25px;
+}
+#instruct{
+    font-size: 20px;
+    vertical-align: auto;
+    font-family: 'Didact Gothic';
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  border-radius: 25px;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 25px;
+  margin: auto;
+}
+
+/* Full-width input fields */
+.form-container input[type=text]{
+  width: 150px;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  background: #f1f1f1;
+  border-radius: 25px;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: rgb(175, 238, 238);
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom: 10px;
+  opacity: 0.8;
+  border-radius: 25px;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+    color:rgb(175, 238, 238);
+  background-color: whitesmoke;
+  border-radius: 25px;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+#name, #link, #type{
+    font-family: 'Didact Gothic';
 }
