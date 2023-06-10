@@ -72,6 +72,10 @@ body{
   background-color: white;
   border-radius: 25px;
   margin: auto;
+  border-width:3px; 
+  border-style:solid; 
+  border-color: black; 
+  padding: 1em;
 }
 
 /* Full-width input fields */
@@ -106,7 +110,7 @@ body{
 .form-container .btn:hover, .open-button:hover {
   opacity: 1;
 }
-#name, #link, #type{
+#name, #link, #recipetype{
     font-family: 'Didact Gothic';
 }
 .form-popup{
@@ -115,4 +119,12 @@ body{
         left: 50%;
         transform: translate(-50%, -25%); 
         
+}
+
+#type{
+  width: 150px;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  background: #f1f1f1;
+  border-radius: 25px;
 }

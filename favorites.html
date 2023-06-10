@@ -24,15 +24,21 @@
     </div>
 
 <div class="form-popup" id="myForm">
-  <form action="/action_page.php" class="form-container">
+  <form action="/favorites.php" class="form-container" >
     <label for="Recipe Name" id="name"><b>Recipe Name:</b></label>
     <input type="text" placeholder="Enter Name" name="recipe" required>
 
     <label for="Recipe Link" id="link"><b>Recipe Link:</b></label>
     <input type="text" placeholder="Enter Link" name="link" required>
 
-    <label for="Recipe Type" id="type"><b>Type of Dish</b></label>
-    <input type="text" placeholder="Enter Type" name="type" required>
+    <label for="Recipe Type" id="recipetype"><b>Recipe Type</b></label>
+    <select name="type" id="type">
+    <option value="Lunch">Lunch</option>
+    <option value="Breakfast">Breakfast</option>
+    <option value="Dinner" >Dinner</option>
+    <option value="Desert" >Desert</option>
+    <option value="Other" >Other</option>
+    </select>
 
     <button type="submit" class="btn">Submit</button>
     <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
