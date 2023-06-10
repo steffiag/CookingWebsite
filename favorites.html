@@ -17,9 +17,36 @@
     <h2 id="title">Favorites</h2>  
 
     <div class="favorites">
-        <p>put ur favorites!!!</p>
+        <div class="instructions">
+            <button type="button" id="plus" onclick="openForm();" >+</button>
+            <label id = "instruct">   Add a new recipe here!</label>
+        </div>
     </div>
+
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <label for="Recipe Name" id="name"><b>Recipe Name:</b></label>
+    <input type="text" placeholder="Enter Name" name="recipe" required>
+
+    <label for="Recipe Link" id="link"><b>Recipe Link:</b></label>
+    <input type="text" placeholder="Enter Link" name="link" required>
+
+    <label for="Recipe Type" id="type"><b>Type of Dish</b></label>
+    <input type="text" placeholder="Enter Type" name="type" required>
+
+    <button type="submit" class="btn">Submit</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
 </body>
-
-
 </html>
