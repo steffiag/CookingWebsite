@@ -63,7 +63,6 @@ body{
 /* The popup form - hidden by default */
 .form-popup {
   display: none;
-  border-radius: 25px;
 }
 
 /* Add styles to the form container */
@@ -90,7 +89,6 @@ body{
   color: white;
   padding: 16px 20px;
   border: none;
-  cursor: pointer;
   width: 100%;
   margin-bottom: 10px;
   opacity: 0.8;
@@ -110,4 +108,11 @@ body{
 }
 #name, #link, #type{
     font-family: 'Didact Gothic';
+}
+.form-popup{
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        transform: translate(-50%, -25%); 
+        
 }
