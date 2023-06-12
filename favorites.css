@@ -78,6 +78,14 @@ body{
     font-family: 'Didact Gothic';
 }
 
+#view {
+  font-size: 40px;
+  vertical-align: top;
+  font-family: 'Didact Gothic';
+  width: fit-content;
+  text-align: center;
+}
+
 /* The popup form - hidden by default */
 .form-popup {
   display: none;
