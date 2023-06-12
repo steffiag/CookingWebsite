@@ -39,6 +39,15 @@ body{
     margin: auto;
 }
 
+.optionsbackground {
+  padding: 50px;
+  background-color: whitesmoke;
+  width: 1000px;
+  height: 200px;
+  border-radius: 10px;
+  margin: auto;
+}
+
 #plus{
     background-color: rgb(175,238,238);
     border-radius: 50%;
@@ -54,10 +63,28 @@ body{
     height: 40px;
     border-radius: 25px;
 }
+
+.options {
+  padding: 5x;
+  background-color: rgb(126, 126, 126);
+  width: 200px;
+  margin: auto;
+  height: 20px;
+  border-radius: 10px;
+}
 #instruct{
     font-size: 20px;
     vertical-align: auto;
     font-family: 'Didact Gothic';
+}
+
+#view {
+    text-align: left;
+    padding-top: 50px;
+    font-family: 'Didact Gothic';
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    
 }
 
 /* The popup form - hidden by default */
