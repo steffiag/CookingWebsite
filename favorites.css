@@ -66,7 +66,7 @@ body{
 
 .options {
   padding: 5x;
-  background-color: white;
+  background-color: rgb(126, 126, 126);
   width: 200px;
   margin: auto;
   height: 20px;
@@ -79,11 +79,12 @@ body{
 }
 
 #view {
+    text-align: left;
+    padding-top: 50px;
     font-family: 'Didact Gothic';
-    font-size: 25px;
-    color: white;
-    text-align: center;
-    vertical-align: auto;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    
 }
 
 /* The popup form - hidden by default */
