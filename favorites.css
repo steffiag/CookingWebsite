@@ -79,11 +79,11 @@ body{
 }
 
 #view {
-  font-size: 40px;
-  vertical-align: top;
-  font-family: 'Didact Gothic';
-  width: fit-content;
-  text-align: center;
+    font-family: 'Didact Gothic';
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    vertical-align: auto;
 }
 
 /* The popup form - hidden by default */
