@@ -14,7 +14,16 @@ app.use(express.static(__dirname));
 // Configure Express to parse URL-encoded POST request bodies (traditional forms)
 app.use( express.urlencoded({ extended: false }) );
 
+
+
 // define a route for the default home page
 app.get( "/", ( req, res ) => {
     res.sendFile(__dirname + "/login.html")
 });
+
+// define a route for the default home page
+app.get( "/HomePage", ( req, res ) => {
+    res.sendFile(__dirname + "/HomePage.html")
+});
+
+// ejs, node
