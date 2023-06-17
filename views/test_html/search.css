@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(175,238,238);
+}
+.topnav {
+    background-color: white;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Didact Gothic';font-size: 22px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color:black;
+    color: rgb(175, 238, 238);
+  }
+#searchbar{
+    color: white;
+    font-size:75px;
+    margin: auto;
+    text-align: center;
+    font-family: "Yellow Bougenville";
+    text-shadow:
+      -1.5px -1.5px 0 #000,
+      1.5px -1.5px 0 #000,
+      -1.5px 1.5px 0 #000,
+      1.5px 1.5px 0 #000;
+}
+.searchbar {
+    font-family: 'Yellow Bougenville';
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  #query{
+    height: 60px;
+    width: 1000px;
+    border-radius: 20px 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    
+  }
+
+  .searchbar {
+    text-shadow:
+      -1.5px -1.5px 0 #000,
+      1.5px -1.5px 0 #000,
+      -1.5px 1.5px 0 #000,
+      1.5px 1.5px 0 #000;
+  }

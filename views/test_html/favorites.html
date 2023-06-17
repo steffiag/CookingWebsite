@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.cdnfonts.com/css/yellow-bougenville" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Didact Gothic' rel='stylesheet'>
+    <link rel = "stylesheet" href = "favorites.css">
+</head>
+<body>
+    <div class="topnav">
+        <a href="./HomePage.html">Home</a>
+        <a class = "active" href="./favorites.html">Favorites</a>
+        <a href="./login.html">Login</a>
+        <a href="./signup.html">Sign Up</a>
+        <a href="./search.html">Recipe Search</a>
+      </div>
+    <h2 id="title">Favorites</h2>  
+
+    <div class="favorites">
+        <div class="instructions">
+            <button type="button" id="plus" onclick="openForm();" >+</button>
+            <label id = "instruct">   Add a new recipe here!</label>
+        </div>
+    </div>
+
+
+    
+
+<div class="form-popup" id="myForm">
+  <form action="/favorites.php" class="form-container" >
+    <label for="Recipe Name" id="name"><b>Recipe Name:</b></label>
+    <input type="text" placeholder="Enter Name" name="recipe" required>
+
+    <label for="Recipe Link" id="link"><b>Recipe Link:</b></label>
+    <input type="text" placeholder="Enter Link" name="link" required>
+
+    <label for="Recipe Type" id="recipetype"><b>Recipe Type</b></label>
+    <select name="type" id="type">
+    <option value="Lunch">Lunch</option>
+    <option value="Breakfast">Breakfast</option>
+    <option value="Dinner" >Dinner</option>
+    <option value="Desert" >Desert</option>
+    <option value="Other" >Other</option>
+    </select>
+
+    <button type="submit" class="btn">Submit</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+</body>
+</html>
