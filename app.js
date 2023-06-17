@@ -28,12 +28,11 @@ app.get( "/", ( req, res ) => {
     res.render('index');
 });
 
-
 //TESTING FOR COOKING WEB
 // define a route for the default home page
-app.get( "/cookingweb", ( req, res ) => {
-    res.render('CW_index.ejs');
-});
+// app.get( "/cookingweb", ( req, res ) => {
+//     res.render('CW_index.ejs');
+// });
 
 app.post( "/search", ( req, res) => {
     const ingredients = [];
@@ -43,7 +42,6 @@ app.post( "/search", ( req, res) => {
             ingredients.push(ingredient)
         }
     }
-
 
 // my sql query
 // getting the number of items in the array
@@ -72,7 +70,7 @@ db.execute(search_database_for_ingredients_sql, finalArray, (error, results) => 
         else {
             //let data = {searchresult : results };
             //res.render('CW_results', data);
-            res.render('CW_results.ejs', { results });
+            res.render('results.ejs', { results });
         }
     });
 });
