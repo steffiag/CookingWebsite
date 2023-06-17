@@ -3,17 +3,17 @@ const db = require("./db_connection");
 /**** Read the assignments table, joined with subjects table ****/
 
 
-const select_costume_sql = `
+const select_recipe_sql = `
 SELECT *
-FROM costume
+FROM recipe
 `;
 
-db.execute(select_costume_sql, 
+db.execute(select_recipe_sql, 
     (error, results) => {
         if (error) 
             throw error;
 
-        console.log("Table 'costume' contents:")
+        console.log("Table 'recipe' contents:")
         console.log(results);
     }
 );
