@@ -46,7 +46,24 @@ app.post( "/search", ( req, res) => {
 // my sql query
 // getting the number of items in the array
 const ingredientNum = ingredients.length;
-const ingredientList = ingredients.map(() => '?').join(',');
+//const ingredientList = ingredients.map(() => '?').join(',');
+const ingredientList = ingredients.map(() => 'ingredient_name LIKE ?').join(' OR ');
+
+// EXACT MATCH QUERY
+// const search_database_for_ingredients_sql = `
+// SELECT recipe.recipe_name
+// FROM recipe
+// JOIN recipe_ingredient_xref
+//     ON recipe.recipe_id = recipe_ingredient_xref.recipe_id
+// JOIN ingredient
+//     ON recipe_ingredient_xref.ingredient_id = ingredient.ingredient_id
+// WHERE ingredient_name IN (${ingredientList})
+// GROUP BY recipe.recipe_id, recipe.recipe_name
+// HAVING COUNT(DISTINCT ingredient_name) = ?
+// LIMIT 20
+// `
+
+//TESTING WILDCARD QUERY
 const search_database_for_ingredients_sql = `
 SELECT recipe.recipe_name
 FROM recipe
@@ -54,13 +71,17 @@ JOIN recipe_ingredient_xref
     ON recipe.recipe_id = recipe_ingredient_xref.recipe_id
 JOIN ingredient
     ON recipe_ingredient_xref.ingredient_id = ingredient.ingredient_id
-WHERE ingredient_name IN (${ingredientList})
+WHERE ${ingredientList}
 GROUP BY recipe.recipe_id, recipe.recipe_name
 HAVING COUNT(DISTINCT ingredient_name) = ?
-LIMIT 20
-`
-const finalArray = ingredients.concat(ingredientNum);
-//const params = [...ingredients, ingredientNum];
+LIMIT 20;
+`;
+
+//const finalArray = ingredients.concat(ingredientNum);
+//const finalArray = [...ingredients, ingredientNum];
+
+const likeParams = ingredients.map(ingredient => `%${ingredient}%`);
+const finalArray = [...likeParams, ingredients.length];
 
 db.execute(search_database_for_ingredients_sql, finalArray, (error, results) => {
         if (DEBUG)

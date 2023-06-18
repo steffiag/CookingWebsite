@@ -1,0 +1,998 @@
+=======================================
+mexican-strawberry-water-agua-de-fresa
+3 main
+[4 cups strawberries, sliced
+ 1 cup white sugar
+ 8 cups cold water
+ 1 lime, cut into 8 wedges (optional)
+ 8 fresh mint sprigs (optional)]
+=======================================
+crispy-cheese-twists
+6663 main
+[1/2 cup Parmesan cheese
+ 3/4 teaspoon ground black pepper
+ 1/2 teaspoon garlic powder
+ 1 (17.5 ounce) package frozen puff pastry, thawed
+ 1 egg white]
+=======================================
+basil-roasted-peppers-and-monterey-jack-cornbread
+6664 Bread
+[1/2 cup unsalted butter, chilled and cubed
+ 1 cup chopped onion
+ 1 3/4 cups cornmeal
+ 1 1/4 cups all-purpose flour
+ 1/4 cup white sugar
+ 1 tablespoon baking powder
+ 1 1/2 teaspoons salt
+ 1/2 teaspoon baking soda
+ 1 1/2 cups buttermilk
+ 3 eggs
+ 1 1/2 cups shredded pepperjack cheese
+ 1 1/3 cups frozen corn kernels, thawed and drained
+ 2 ounces roasted marinated red bell peppers, drained and chopped
+ 1/2 cup chopped fresh basil]
+=======================================
+moms-yeast-rolls
+6665 Bread
+[2 cups hot water
+ 1/2 cup margarine
+ 1/3 cup white sugar
+ 2 teaspoons salt
+ 1/2 cup cold water
+ 2 (.25 ounce) packages active dry yeast
+ 5 1/2 cups all-purpose flour
+ 2 eggs]
+=======================================
+sweet-potato-bread-i
+6666 Bread
+[1 1/2 cups white sugar
+ 1/2 cup vegetable oil
+ 2 eggs
+ 1 3/4 cups sifted all-purpose flour
+ 1 teaspoon baking soda
+ 1/4 teaspoon salt
+ 1/2 teaspoon ground cinnamon
+ 1/2 teaspoon ground nutmeg
+ 1/3 cup water
+ 1 cup cooked and mashed sweet potatoes
+ 1/2 cup chopped pecans]
+=======================================
+cornish-splits
+6667 Bread
+[1 teaspoon active dry yeast
+ 1 1/4 cups lukewarm milk
+ 1 tablespoon white sugar
+ 3 cups unbleached all-purpose flour
+ 1/4 teaspoon salt
+ 2 tablespoons butter, melted and cooled]
+=======================================
+orange-buns
+6668 Bread
+[1/4 cup butter
+ 1 teaspoon white sugar
+ 1 cup hot milk
+ 2 tablespoons active dry yeast
+ 6 cups bread flour, divided
+ 1/2 cup white sugar
+ 2 eggs
+ 1 cup orange juice
+ 1 tablespoon orange zest
+ 1 teaspoon salt]
+=======================================
+jalapeno-cheese-bread
+6669 Bread
+[8 cups all-purpose flour
+ 4 cups shredded Cheddar cheese
+ 3/4 cup minced jalapeno peppers
+ 1/2 cup white sugar
+ 1 1/2 teaspoons salt
+ 2 cups hot water
+ 3 (.25 ounce) packages active dry yeast
+ 4 tablespoons vegetable oil]
+=======================================
+dees-health-bread
+6670 Bread
+[2 tablespoons active dry yeast
+ 1 teaspoon white sugar
+ 1/2 cup warm water
+ 3 1/2 cups warm water
+ 1/4 cup honey
+ 1/4 cup molasses
+ 1/2 cup vegetable oil
+ 2 eggs
+ 2 tablespoons lemon juice
+ 7 cups whole wheat flour
+ 1/4 cup flax seed
+ 1/4 cup cracked wheat
+ 1/4 cup sunflower seeds
+ 4 teaspoons salt
+ 4 cups bread flour]
+=======================================
+oatmeal-bread-i
+6671 Bread
+[1 cup rolled oats
+ 1/2 cup molasses
+ 1/3 cup vegetable oil
+ 1 teaspoon salt
+ 1 1/2 cups boiling water
+ 2 tablespoons active dry yeast
+ 1/2 cup lukewarm water (100 degrees F/38 degrees C)
+ 1 cup whole wheat flour
+ 5 cups bread flour
+ 2 eggs]
+=======================================
+strawberry-bread-i
+6672 Breakfast and Brunch
+[3 cups all-purpose flour
+ 2 cups white sugar
+ 1 teaspoon ground cinnamon
+ 1 teaspoon salt
+ 1 teaspoon baking soda
+ 4 eggs
+ 1 1/4 cups vegetable oil
+ 1 cup chopped pecans
+ 1 (10 ounce) package frozen strawberries, thawed]
+=======================================
+sun-dried-tomato-and-asiago-cheese-bread
+6673 Bread
+[1 cup water
+ 2 tablespoons extra virgin olive oil
+ 1 teaspoon lemon juice
+ 2 tablespoons white sugar
+ 2 tablespoons instant powdered milk
+ 1 teaspoon salt
+ 2 1/2 cups bread flour
+ 1/2 cup amaranth flour
+ 2 tablespoons chopped sun-dried tomatoes
+ 1/4 cup grated Asiago cheese
+ 1 teaspoon dried basil (optional)
+ 1/2 teaspoon freshly ground black pepper
+ 1 teaspoon active dry yeast]
+=======================================
+hawaiian-sweet-bread
+6674 Bread
+[1 cup warm water
+ 5 tablespoons white sugar
+ 3 cups all-purpose flour
+ 3/4 teaspoon salt
+ 2 tablespoons dry milk powder
+ 2 tablespoons dry potato flakes
+ 1 tablespoon active dry yeast
+ 1/4 teaspoon vanilla extract
+ 1/4 teaspoon lemon extract
+ 2 eggs
+ 4 tablespoons margarine]
+=======================================
+the-best-corn-bread-youll-ever-eat
+6675 Bread
+[1 egg
+ 1 1/3 cups milk
+ 1/4 cup vegetable oil
+ 2 cups self-rising corn meal mix
+ 1 (8 ounce) can cream-style corn
+ 1 cup sour cream]
+=======================================
+no-knead-refrigerator-rolls
+6676 Bread
+[4 1/2 teaspoons active dry yeast
+ 2 cups warm water
+ 1/2 cup white sugar
+ 2 teaspoons salt
+ 1/4 cup shortening
+ 6 1/2 cups all-purpose flour
+ 1 egg]
+=======================================
+sourdough-starter-i
+6677 Bread
+[3 tablespoons instant mashed potato flakes
+ 3 tablespoons white sugar
+ 1 cup warm water
+ 2 1/4 teaspoons active dry yeast]
+=======================================
+sourdough-bread-i
+6678 Bread
+[1 cup sourdough starter
+ 1 1/2 cups warm water
+ 1 1/2 teaspoons salt
+ 1/2 cup white sugar
+ 1/2 cup corn oil
+ 6 cups bread flour]
+=======================================
+dilly-bread
+6679 main
+[1 (.25 ounce) package active dry yeast
+ 1/4 cup warm water
+ 1 pinch white sugar
+ 1 cup cottage cheese
+ 1 tablespoon margarine
+ 2 tablespoons white sugar
+ 2 teaspoons dill seed
+ 1 teaspoon dried minced onion
+ 1 teaspoon salt
+ 1/4 teaspoon baking soda
+ 1 egg
+ 2 1/4 cups all-purpose flour
+ 1 tablespoon margarine, melted
+ 1 teaspoon kosher salt]
+=======================================
+pumpkin-bread-i
+6680 Breakfast and Brunch
+[3 1/2 cups all-purpose flour
+ 2 teaspoons baking soda
+ 1 teaspoon salt
+ 1/2 teaspoon baking powder
+ 3 cups white sugar
+ 1 teaspoon ground cinnamon
+ 1 teaspoon pumpkin pie spice
+ 1 cup applesauce
+ 4 eggs, lightly beaten
+ 1 (15 ounce) can pumpkin puree
+ 1/4 cup water
+ 1/2 cup chopped walnuts (optional)]
+=======================================
+sys-challah
+6681 Bread
+[1/4 cup white sugar
+ 1 tablespoon salt
+ 1/4 cup vegetable oil
+ 1 1/4 cups warm water
+ 2 (.25 ounce) packages active dry yeast
+ 3 eggs
+ 6 cups all-purpose flour
+ 1 egg
+ 1 tablespoon poppy seeds (optional)]
+=======================================
+onion-bread-i
+6682 Bread
+[2 (.25 ounce) packages active dry yeast
+ 3/4 cup warm water
+ 2 cups milk
+ 3 tablespoons white sugar
+ 2 1/2 teaspoons salt
+ 3 tablespoons margarine
+ 6 1/4 cups all-purpose flour
+ 1 (1 ounce) package dry onion soup mix]
+=======================================
+grandma-vandorens-white-bread
+6683 Bread
+[3 cups warm water
+ 3 tablespoons active dry yeast
+ 3 teaspoons salt
+ 4 tablespoons vegetable oil
+ 1/2 cup white sugar
+ 8 cups bread flour]
+=======================================
+italian-bread-i
+6684 Bread
+[1/4 cup chopped sun-dried tomatoes
+ 2 1/2 cups all-purpose flour
+ 2 tablespoons white sugar
+ 2 teaspoons baking powder
+ 1/2 teaspoon baking soda
+ 1/4 teaspoon salt
+ 1 teaspoon dried rosemary
+ 2 tablespoons dried parsley
+ 1 cup shredded sharp Cheddar cheese
+ 1/4 cup chopped green onions
+ 1 egg
+ 1 1/2 cups buttermilk
+ 3 tablespoons olive oil
+ 1 clove crushed garlic]
+=======================================
+sunday-dinner-rolls
+6685 Bread
+[1 (.25 ounce) package active dry yeast
+ 1/4 cup warm water
+ 1 pinch white sugar
+ 1/2 cup white sugar
+ 2 eggs
+ 1 cup warm water
+ 1/2 cup vegetable oil
+ 1 teaspoon salt
+ 4 cups all-purpose flour]
+=======================================
+banana-wheat-bread
+6686 Breakfast and Brunch
+[2 cups whole wheat flour
+ 1/4 cup wheat germ
+ 1 teaspoon salt
+ 1 teaspoon baking soda
+ 1 1/2 cups mashed bananas
+ 1/4 cup vegetable oil
+ 1/2 cup honey
+ 2 eggs
+ 1 teaspoon vanilla extract
+ 1/2 cup chopped pecans]
+=======================================
+banana-bread
+6687 Breakfast and Brunch
+[1 1/2 cups all-purpose flour
+ 1 teaspoon baking soda
+ 1/2 teaspoon salt
+ 1 cup white sugar
+ 2 eggs, beaten
+ 1/4 cup butter, melted
+ 3 bananas, mashed]
+=======================================
+candied-fruit-bread
+6688 Bread
+[2 cups sifted all-purpose flour
+ 4 teaspoons baking powder
+ 1/2 teaspoon salt
+ 1/4 teaspoon ground cinnamon
+ 3/4 cup white sugar
+ 1/4 cup chopped candied citron
+ 1/4 cup currants
+ 2 tablespoons chopped candied cherries
+ 2 tablespoons chopped candied lemon peel
+ 1/4 cup chopped blanched almonds
+ 1/4 cup chopped pecans
+ 1 cup milk
+ 2 eggs
+ 3 tablespoons butter, melted]
+=======================================
+nut-and-fruit-bread
+6689 Breakfast and Brunch
+[2 cups sifted all-purpose flour
+ 4 teaspoons baking powder
+ 1/2 teaspoon salt
+ 1/2 cup white sugar
+ 3/4 cup chopped walnuts
+ 1 cup raisins
+ 1 tablespoon orange zest
+ 1 egg
+ 1 cup milk
+ 2 tablespoons butter, melted]
+=======================================
+mothers-banana-bread
+6690 Breakfast and Brunch
+[1 3/4 cups all-purpose flour
+ 2 teaspoons baking powder
+ 1/4 teaspoon baking soda
+ 1/2 teaspoon salt
+ 2/3 cup white sugar
+ 1/3 cup butter, softened
+ 2 eggs
+ 1 cup mashed banana
+ 1/2 cup chopped walnuts]
+=======================================
+pumpernickel-bread-i
+6691 Bread
+[1 1/2 cups warm milk
+ 1 1/2 tablespoons vegetable oil
+ 3 tablespoons molasses
+ 2 1/2 cups bread flour
+ 1 cup rye flour
+ 1/3 cup cornmeal
+ 1 teaspoon salt
+ 1 3/4 teaspoons active dry yeast
+ 3 tablespoons unsweetened cocoa powder]
+=======================================
+sun-dried-tomato-focaccia
+6692 Bread
+[1 cup water
+ 3 cups bread flour
+ 2 tablespoons dry milk powder
+ 3 1/2 tablespoons white sugar
+ 1 teaspoon salt
+ 3 tablespoons margarine
+ 2 teaspoons active dry yeast
+ 1/2 cup chopped sun-dried tomatoes
+ 2 tablespoons olive oil
+ 2 tablespoons Parmesan cheese
+ 2 teaspoons dried rosemary, crushed
+ 1 teaspoon garlic salt
+ 1 cup shredded mozzarella cheese]
+=======================================
+buttermilk-bread-i
+6693 Bread
+[1 1/2 cups buttermilk
+ 1 1/2 tablespoons margarine
+ 2 tablespoons white sugar
+ 1 teaspoon salt
+ 3 cups bread flour
+ 1 1/3 cups whole wheat flour
+ 2 1/4 teaspoons active dry yeast]
+=======================================
+michell-jennys-challah
+6694 Bread
+[7/8 cup water
+ 1/2 tablespoon salt
+ 1/4 cup honey
+ 2 eggs
+ 1/4 cup butter, melted
+ 4 cups all-purpose flour
+ 2 teaspoons active dry yeast]
+=======================================
+potato-bread-i
+6695 Bread
+[3/4 cup water
+ 2/3 cup instant mashed potato flakes
+ 1 egg
+ 2 tablespoons margarine
+ 2 tablespoons white sugar
+ 1/4 cup dry milk powder
+ 1 teaspoon salt
+ 3 cups bread flour
+ 1 1/2 teaspoons active dry yeast]
+=======================================
+cinnamon-cranraisin-bread
+6696 Breakfast and Brunch
+[3/4 cup warm water
+ 1 egg, lightly beaten
+ 1 tablespoon margarine
+ 2 2/3 cups all-purpose flour
+ 3 tablespoons dry milk powder
+ 2 tablespoons white sugar
+ 2 teaspoons ground cinnamon
+ 1 teaspoon vanilla extract
+ 1 teaspoon salt
+ 1 1/2 teaspoons active dry yeast
+ 1/2 cup sweetened dried cranberries]
+=======================================
+delicious-pumpkin-bread
+6697 Breakfast and Brunch
+[3 1/4 cups all-purpose flour
+ 3 cups white sugar
+ 2 teaspoons baking soda
+ 1 1/2 teaspoons salt
+ 1 teaspoon ground nutmeg
+ 1 teaspoon ground cinnamon
+ 2 cups solid pack pumpkin puree
+ 2/3 cup water
+ 1 cup vegetable oil
+ 4 eggs
+ 1/2 cup chopped walnuts (optional)]
+=======================================
+moms-zucchini-bread
+6698 Breakfast and Brunch
+[3 cups all-purpose flour
+ 1 teaspoon salt
+ 1 teaspoon baking soda
+ 1 teaspoon baking powder
+ 1 tablespoon ground cinnamon
+ 3 eggs
+ 1 cup vegetable oil
+ 2 1/4 cups white sugar
+ 3 teaspoons vanilla extract
+ 2 cups grated zucchini
+ 1 cup chopped walnuts]
+=======================================
+molasses-oat-bran-bread
+6699 Breakfast and Brunch
+[1 (.25 ounce) package active dry yeast
+ 1 pinch white sugar
+ 1 cup warm water
+ 2 tablespoons butter, melted
+ 1/3 cup molasses
+ 1 cup oat bran
+ 3 cups whole wheat flour
+ 1/2 teaspoon salt
+ 1 tablespoon oat bran]
+=======================================
+fabulous-homemade-bread
+6700 Bread
+[1/2 cup warm water
+ 3 (.25 ounce) packages active dry yeast
+ 1/4 cup bread flour
+ 1 tablespoon white sugar
+ 2 cups quick cooking oats
+ 2 cups whole wheat flour
+ 4 1/2 cups warm water
+ 1 1/2 tablespoons salt
+ 2/3 cup brown sugar
+ 2/3 cup vegetable oil
+ 10 cups bread flour]
+=======================================
+persimmon-bread-i
+6701 Breakfast and Brunch
+[2 eggs
+ 1 1/2 cups all-purpose flour
+ 3/4 cup white sugar
+ 1/2 teaspoon salt
+ 1/2 cup vegetable oil
+ 1 teaspoon ground cinnamon
+ 1 cup persimmon pulp
+ 1/2 cup chopped walnuts
+ 1 teaspoon baking soda
+ 1/2 cup raisins]
+=======================================
+cinnamon-carrot-bread
+6702 Breakfast and Brunch
+[3/4 cup white sugar
+ 1/4 cup packed brown sugar
+ 3/4 cup sunflower seed oil
+ 2 cups all-purpose flour
+ 2 teaspoons baking powder
+ 1 teaspoon baking soda
+ 1 teaspoon ground cinnamon
+ 2 eggs
+ 1 pinch salt
+ 1 cup grated carrots
+ 1/2 cup chopped pecans
+ 1/2 teaspoon vanilla extract]
+=======================================
+strawberry-bread-ii
+6703 Breakfast and Brunch
+[1/2 cup butter, softened
+ 1 cup white sugar
+ 2 eggs, separated
+ 2 cups all-purpose flour
+ 1 teaspoon baking powder
+ 1 teaspoon baking soda
+ 1/2 teaspoon almond extract
+ 1 (10 ounce) package frozen strawberries - thawed, drained and juice reserved]
+=======================================
+yummy-lemon-bread
+6704 Breakfast and Brunch
+[6 tablespoons butter, melted
+ 1 cup white sugar
+ 1/2 cup milk
+ 2 eggs
+ 1 1/2 cups all-purpose flour
+ 1 teaspoon baking powder
+ 1 tablespoon grated lemon zest
+ 1/2 cup chopped walnuts
+ 2 tablespoons lemon juice
+ 2 tablespoons confectioners' sugar]
+=======================================
+nicks-favorite-cherry-pecan-bread
+6705 Breakfast and Brunch
+[1/2 cup margarine
+ 3/4 cup white sugar
+ 2 eggs
+ 1 cup buttermilk
+ 1 teaspoon baking soda
+ 1/2 teaspoon salt
+ 1 teaspoon vanilla extract
+ 2 cups all-purpose flour
+ 1 (10 ounce) jar maraschino cherries, drained and chopped
+ 1 cup chopped pecans]
+=======================================
+alienated-blueberry-muffins
+6706 Bread
+[2 cups fresh blueberries
+ 1/4 cup all-purpose flour
+ 2 cups all-purpose flour
+ 4 teaspoons baking powder
+ 1 teaspoon salt
+ 1/4 cup margarine
+ 1 1/2 cups white sugar
+ 2 eggs
+ 1 teaspoon vanilla extract
+ 1 cup milk]
+=======================================
+swedish-rye-bread-i
+6707 Bread
+[1 1/2 (0.6 ounce) cakes compressed fresh yeast
+ 1 1/2 cups warm water
+ 1 1/2 cups warm milk
+ 1 tablespoon salt
+ 6 cups bread flour
+ 1/4 cup molasses
+ 1 cup packed brown sugar
+ 1/3 cup melted shortening
+ 3 cups rye flour]
+=======================================
+bran-muffins-i
+6708 Bread
+[2 cups raisin bran cereal
+ 4 cups whole bran cereal
+ 2 cups boiling water
+ 1 cup shortening
+ 3 cups white sugar
+ 4 eggs
+ 4 cups buttermilk
+ 5 cups all-purpose flour
+ 5 teaspoons baking soda
+ 1 1/2 teaspoons salt]
+=======================================
+zucchini-walnut-bread
+6709 Breakfast and Brunch
+[1 cup chopped walnuts
+ 4 eggs
+ 2 cups white sugar
+ 1 cup vegetable oil
+ 3 1/2 cups all-purpose flour
+ 1 1/2 teaspoons baking soda
+ 1 1/2 teaspoons salt
+ 1 teaspoon ground cinnamon
+ 3/4 teaspoon baking powder
+ 2 cups grated zucchini
+ 1 cup raisins
+ 1 teaspoon vanilla extract]
+=======================================
+apricot-nut-bread
+6710 Breakfast and Brunch
+[1 (15 ounce) can apricot halves
+ 1/3 cup shortening
+ 1/2 cup white sugar
+ 2 eggs
+ 1 3/4 cups sifted all-purpose flour
+ 1 teaspoon baking powder
+ 1/2 teaspoon baking soda
+ 1/2 teaspoon salt
+ 1/2 cup chopped walnuts]
+=======================================
+babka-i
+6711 Bread
+[2 cups milk
+ 1/2 pound unsalted butter, at room temperature
+ 1 (0.6 ounce) cake cake yeast
+ 1/2 cup warm water (110 degrees F/45 degrees C)
+ 4 eggs, room temperature
+ 4 egg yolks, room temperature
+ 1 cup white sugar
+ 1 teaspoon salt
+ 1 teaspoon vanilla extract
+ 1 tablespoon orange liqueur (optional)
+ 3 tablespoons grated orange zest
+ 1 tablespoon grated lemon zest
+ 10 cups all-purpose flour, or as needed
+ 1 1/2 cups dried currants
+ 1 1/2 cups raisins
+ 1 1/2 cups golden raisins
+ 1 cup chopped slivered almonds, Topping:
+ 1 cup all-purpose flour
+ 1/2 cup packed brown sugar
+ 1 teaspoon ground cinnamon
+ 4 tablespoons butter
+ 1 eggs
+ 1 tablespoon water]
+=======================================
+brazilian-banana-bread
+6712 Breakfast and Brunch
+[3 tablespoons margarine
+ 2 cups white sugar
+ 3 egg yolks
+ 3 cups all-purpose flour
+ 1 tablespoon baking powder
+ 1 cup milk
+ 3 egg whites
+ 6 bananas
+ 2 tablespoons white sugar
+ 1 teaspoon ground cinnamon]
+=======================================
+easy-banana-bread
+6713 Breakfast and Brunch
+[5 very ripe bananas
+ 4 eggs
+ 1 cup shortening
+ 2 1/2 cups white sugar
+ 1 tablespoon vanilla extract
+ 3 1/2 cups all-purpose flour
+ 2 teaspoons baking soda
+ 1 teaspoon salt]
+=======================================
+banana-oat-muffins
+6714 Bread
+[1 1/2 cups unbleached all-purpose flour
+ 1 cup rolled oats
+ 1/2 cup white sugar
+ 2 teaspoons baking powder
+ 1 teaspoon baking soda
+ 1/2 teaspoon salt
+ 1 egg
+ 3/4 cup milk
+ 1/3 cup vegetable oil
+ 1/2 teaspoon vanilla extract
+ 1 cup mashed bananas]
+=======================================
+canadian-doughnuts
+6715 Bread
+[1 tablespoon white sugar
+ 1/2 cup warm water (110 degrees F/45 degrees C)
+ 1 tablespoon active dry yeast
+ 1/4 cup vegetable oil
+ 2 1/3 cups warm water (110 degrees F/45 degrees C)
+ 1 teaspoon salt
+ 4 tablespoons white sugar
+ 4 cups all-purpose flour
+ 4 cups whole wheat flour
+ 1 tablespoon lemon juice
+ 3 tablespoons white sugar
+ 1 teaspoon ground cinnamon]
+=======================================
+beer-biscuits
+6716 Bread
+[2 cups all-purpose flour
+ 3 teaspoons baking powder
+ 1 teaspoon salt
+ 1/4 cup shortening
+ 3/4 cup beer]
+=======================================
+beer-bread-i
+6717 Bread
+[1 (12 fluid ounce) can or bottle beer
+ 3 cups self-rising flour
+ 3 tablespoons white sugar]
+=======================================
+cardamom-bread
+6718 Breakfast and Brunch
+[1 egg
+ 1/4 cup water
+ 1/2 cup evaporated skim milk
+ 1 teaspoon salt
+ 1 1/2 teaspoons canola oil
+ 3 cups bread flour
+ 1 teaspoon ground cardamom
+ 3 tablespoons white sugar
+ 1 teaspoon active dry yeast]
+=======================================
+three-c-bread
+6719 Breakfast and Brunch
+[3 eggs, beaten
+ 1/2 cup vegetable oil
+ 1/2 cup milk
+ 2 1/2 cups sifted all-purpose flour
+ 1 cup white sugar
+ 1 teaspoon baking powder
+ 1 teaspoon baking soda
+ 1 teaspoon ground cinnamon
+ 1/2 teaspoon salt
+ 2 cups grated carrots
+ 1 (3.5 ounce) package flaked coconut
+ 1/2 cup maraschino cherries, chopped
+ 1/2 cup raisins
+ 1/2 cup chopped pecans]
+=======================================
+grandma-cornishs-whole-wheat-potato-bread
+6720 Bread
+[1 medium potato, peeled
+ 2 cups water
+ 1 teaspoon salt
+ 1/3 cup white sugar
+ 1/3 cup shortening
+ 1 tablespoon salt
+ 6 cups warm milk
+ 3 (.25 ounce) packages active dry yeast
+ 1/2 cup warm water (110 degrees F/45 degrees C)
+ 1 teaspoon white sugar
+ 15 cups whole wheat flour]
+=======================================
+chocolate-bread
+6721 Bread
+[1 tablespoon sunflower seed oil
+ 2 teaspoons salt
+ 1 3/4 cups warm water (110 degrees F/45 degrees C)
+ 1 (.25 ounce) package instant yeast
+ 6 cups bread flour
+ 4 1/2 tablespoons white sugar
+ 3/4 cup unsweetened cocoa powder]
+=======================================
+strawberry-rhubarb-muffins
+6722 Bread
+[1 cup bread flour
+ 1/3 cup amaranth flour
+ 2/3 cup brown rice flour
+ 2 teaspoons baking powder
+ 1/2 teaspoon baking soda
+ 1/2 teaspoon ground allspice
+ 1/2 cup chopped rhubarb
+ 1/2 cup water
+ 1/4 cup honey
+ 3 tablespoons vegetable oil
+ 1 egg
+ 1/2 cup chopped strawberries]
+=======================================
+poppy-seed-bread-i
+6723 Breakfast and Brunch
+[1 teaspoon salt
+ 1/4 cup poppy seeds
+ 3 cups all-purpose flour
+ 4 eggs
+ 1 1/2 cups vegetable oil
+ 2 cups white sugar
+ 1 teaspoon baking soda
+ 1 teaspoon vanilla extract
+ 1 cup milk]
+=======================================
+zucchini-bread
+6724 Breakfast and Brunch
+[3 cups all-purpose flour
+ 3 eggs
+ 2 cups white sugar
+ 1 cup vegetable oil
+ 2 cups grated zucchini
+ 1 cup semisweet chocolate chips
+ 1 teaspoon ground cinnamon
+ 1 teaspoon baking soda
+ 1/4 teaspoon baking powder
+ 1/2 cup sour cream]
+=======================================
+honey-wheat-bread-i
+6725 Bread
+[1 (.25 ounce) package rapid rise yeast
+ 1 teaspoon white sugar
+ 1/2 cup warm water (110 degrees F/45 degrees C)
+ 1 (12 fluid ounce) can evaporated milk
+ 1/4 cup water
+ 1/4 cup melted shortening
+ 1/4 cup honey
+ 2 teaspoons salt
+ 2 cups whole wheat flour
+ 3 cups bread flour
+ 2 tablespoons butter]
+=======================================
+honey-white-bread
+6726 Breakfast and Brunch
+[1 cup milk
+ 3 tablespoons unsalted butter, melted
+ 2 tablespoons honey
+ 3 cups bread flour
+ 3/4 teaspoon salt
+ 3/4 teaspoon vitamin c powder
+ 3/4 teaspoon ground ginger
+ 1 1/2 teaspoons active dry yeast]
+=======================================
+moms-hazelnut-special
+6727 Bread
+[1/2 tablespoon active dry yeast
+ 1 1/4 cups bread flour
+ 1 cup whole wheat flour
+ 1 tablespoon bread flour (optional)
+ 1 1/8 cups warm water (110 degrees F/45 degrees C)
+ 1 tablespoon sesame seeds
+ 1 1/2 tablespoons sunflower seeds
+ 2 cups chopped hazelnuts
+ 1 tablespoon white sugar
+ 1 1/2 tablespoons vegetable oil
+ 2/3 teaspoon salt]
+=======================================
+quick-lemon-poppy-seed-bread
+6728 Breakfast and Brunch
+[1 (18.25 ounce) package lemon cake mix
+ 4 eggs
+ 1/2 cup vegetable oil
+ 1 (3 ounce) package instant lemon pudding mix
+ 1 cup water
+ 1/4 cup poppy seeds]
+=======================================
+maple-zucchini-bread
+6729 Breakfast and Brunch
+[3 eggs
+ 1 cup vegetable oil
+ 1 cup packed brown sugar
+ 1 cup white sugar
+ 3 teaspoons maple flavored extract
+ 2 1/2 cups all-purpose flour
+ 1/2 cup wheat germ
+ 2 teaspoons baking soda
+ 2 teaspoons salt
+ 1/2 teaspoon baking powder
+ 2 cups grated zucchini
+ 1 cup chopped walnuts]
+=======================================
+chocolate-chip-orange-zucchini-bread
+6730 Breakfast and Brunch
+[3 eggs
+ 2 cups white sugar
+ 1 cup vegetable oil
+ 2 teaspoons vanilla extract
+ 2 cups grated zucchini
+ 1 cup chopped walnuts
+ 1 cup semisweet chocolate chips
+ 1 tablespoon orange zest
+ 3 cups all-purpose flour
+ 1/4 teaspoon baking powder
+ 1 teaspoon baking soda
+ 1 teaspoon salt
+ 1/2 teaspoon ground cinnamon
+ 1 teaspoon ground nutmeg]
+=======================================
+chocolate-wave-zucchini-bread
+6731 Breakfast and Brunch
+[1/3 cup shortening
+ 1 1/3 cups white sugar
+ 2 eggs
+ 1 1/2 cups grated zucchini
+ 1/3 cup water
+ 1 teaspoon vanilla extract
+ 1 2/3 cups all-purpose flour
+ 1 teaspoon baking soda
+ 1/2 teaspoon salt
+ 1/4 teaspoon baking powder
+ 1 teaspoon pumpkin pie spice
+ 1/3 cup chopped walnuts
+ 3 tablespoons unsweetened cocoa powder
+ 1/3 cup mini semi-sweet chocolate chips]
+=======================================
+chocolate-chip-pumpkin-bread
+6732 Bread
+[3 cups white sugar
+ 1 (15 ounce) can pumpkin puree
+ 1 cup vegetable oil
+ 2/3 cup water
+ 4 eggs
+ 3 1/2 cups all-purpose flour
+ 1 tablespoon ground cinnamon
+ 1 tablespoon ground nutmeg
+ 2 teaspoons baking soda
+ 1 1/2 teaspoons salt
+ 1 cup miniature semisweet chocolate chips
+ 1/2 cup chopped walnuts (optional)]
+=======================================
+red-pepper-biscuits
+6733 Bread
+[2 3/4 cups baking mix
+ 1/2 teaspoon crushed red pepper flakes
+ 3/4 teaspoon garlic powder
+ 1 cup milk
+ 1 cup shredded Cheddar cheese
+ 2 tablespoons butter, melted]
+=======================================
+wheat-and-barley-bread
+6734 Breakfast and Brunch
+[3/4 cup wheat and barley nugget cereal (e.g. Grape-Nuts\u2122)
+ 1 1/4 cups buttermilk
+ 1 egg
+ 3/4 cup white sugar
+ 1 teaspoon baking soda
+ 1 teaspoon salt
+ 2 cups all-purpose flour
+ 2 tablespoons melted shortening]
+=======================================
+zucchini-bread-ii
+6735 Breakfast and Brunch
+[3 eggs
+ 3/4 cup vegetable oil
+ 1 2/3 cups packed brown sugar
+ 2 cups grated zucchini
+ 2 teaspoons vanilla extract
+ 3 cups all-purpose flour
+ 3 teaspoons ground cinnamon
+ 1 1/2 teaspoons baking powder
+ 1 teaspoon baking soda
+ 1 teaspoon salt
+ 1/2 cup raisins
+ 1/2 cup chopped walnuts]
+=======================================
+tomato-bread-i
+6736 Bread
+[1 cup tomato juice
+ 1 cup water
+ 1 (.25 ounce) package instant yeast
+ 1/4 cup vegetable oil
+ 1/3 cup honey
+ 1/4 cup chopped fresh parsley
+ 1/4 cup chopped green onions
+ 2 cloves garlic
+ 1 carrot, shredded
+ 1 teaspoon salt
+ 6 cups bread flour]
+=======================================
+mall-pretzels
+6737 Bread
+[1 (.25 ounce) package active dry yeast
+ 2 tablespoons brown sugar
+ 1 1/8 teaspoons salt
+ 1 1/2 cups warm water (110 degrees F/45 degrees C)
+ 3 cups all-purpose flour
+ 1 cup bread flour
+ 2 cups warm water (110 degrees F/45 degrees C)
+ 2 tablespoons baking soda
+ 2 tablespoons butter, melted
+ 2 tablespoons coarse kosher salt]
+=======================================
+soft-pretzels-i
+6738 Bread
+[1 1/3 cups warm water (110 degrees F/45 degrees C)
+ 2 tablespoons margarine
+ 1 1/2 tablespoons white sugar
+ 3/4 teaspoon salt
+ 4 cups all-purpose flour
+ 2 1/2 teaspoons active dry yeast
+ 4 cups water
+ 1 1/2 tablespoons baking soda
+ 2 tablespoons kosher salt]
+=======================================
+sweet-potato-rolls
+6739 Bread
+[1 (.25 ounce) package active dry yeast
+ 4 tablespoons white sugar
+ 1/2 cup canned sweet potato puree
+ 1/2 cup warm water (110 degrees F/45 degrees C)
+ 3 tablespoons margarine, softened
+ 1 teaspoon salt
+ 2 eggs
+ 3 1/2 cups all-purpose flour]
