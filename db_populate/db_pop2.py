@@ -118,6 +118,6 @@ def insert_data(data):
 
 
 if __name__ == '__main__':
-    file_path = 'db_populate/sample_data_15000_file.txt'
+    file_path = 'db_populate/sample_data_actual_file.txt'
     data = parse_file(file_path)
     insert_data(data)
