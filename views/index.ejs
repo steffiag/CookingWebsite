@@ -20,18 +20,25 @@
 <body>
     <!-- Nav bar: Reference: https://materializecss.com/navbar.html -->
     <nav>
-        <div class="nav-wrapper">
-            <a href="/cookingweb" class="brand-logo"><i class="material-icons left"></i>Random Ingredient Recipe Finder</a>
+        <div class="nav-wrapper container left-align">
+            <a href="/" class="brand-logo"><i class="material-icons left"></i>Random Ingredient Recipe Finder</a>
         </div>
     </nav>
 
     <!-- Actual page content! Reference: https://materializecss.com/grid.html, https://materializecss.com/helpers.html -->
     <div class="container left-align">
         <h1>Welcome!</h1>
-        <img src="../images/cooking_panda.jpg" width="200px">
-        <h2>Enter up to 5 ingredients and see what you can make!</h1>
     </div>
 
+    <div class="row container left-align">
+        <div class="col s12"><img src="../images/cooking_panda.jpg" width="200px"></div>
+    </div>
+
+    <div class="row container left-align">
+        <div class="col s12 container left-align"><h3>Enter up to 5 ingredients and see what you can make!</h3></div>     
+        <div class="col s12 container left-align"><h5><i>For best results enter 1 word ingredients, avoiding common ingredients such as water and salt</i></h5></div>     
+    </div>
+  
     <div class="container left-align">
         <form class="col s12" method="post" action="/search">
             <div class="row">
@@ -71,7 +78,8 @@
                     </button>
                 </div>
             </div>
-            <div class="searchbar">
+
+            <!-- <div class="searchbar">
                 <form role="search" id = "form">
                     <h1 id="searchbar">Search Bar:</h1>
                     <input type="search" id="query" name="q" placeholder="Search..." aria-label="Search through site content">
@@ -91,6 +99,7 @@
                 f.addEventListener('submit', submitted);
               </script>
                   </form>
+        </form>
 
     <!-- Materialize JavaScript  -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
